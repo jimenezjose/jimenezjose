@@ -1,4 +1,4 @@
-Autonomous {go-kart, quadcopter} in the making 🔭. Fund innovation [<img src="https://github.com/jimenezjose/jimenezjose/blob/main/paypal.jpg">](https://paypal.me/pools/c/8wzpVRDpCD)
+Autonomous {go-kart, quadcopter} in the making 🔭. Fund innovation [<img src="https://github.com/jimenezjose/jimenezjose/blob/main/paypal.jpg" width="20%">](https://paypal.me/pools/c/8wzpVRDpCD)
 
 <!--
 **jimenezjose/jimenezjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
