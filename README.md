@@ -1,4 +1,4 @@
-Fund Innovation. Autonomous Go-Kart in the making 🔭. 
+Fund Innovation.
 
 [<img src="https://github.com/jimenezjose/jimenezjose/blob/main/bitcoin.png" width="10%">](https://github.com/jimenezjose/jimenezjose/blob/main/qrcode.png)
 <!--
