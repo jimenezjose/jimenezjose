@@ -1,4 +1,4 @@
-Fund Innovation. Currently Building an Autonomous Racecar to compete in the Indy Autonomous Challenge.
+Fund Innovation. Currently building an autonomous racecar.
 
 [<img src="https://github.com/jimenezjose/jimenezjose/blob/main/bitcoin.png" width="10%">](https://github.com/jimenezjose/jimenezjose/blob/main/qrcode.png)
 <!--
