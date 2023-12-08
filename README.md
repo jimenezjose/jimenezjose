@@ -1,4 +1,4 @@
-Fund Innovation. Currently building an autonomous racecar.
+Fund Innovation. Currently building an [autonomous racecar](https://www.hawaiiavtech.com/). 
 
 [<img src="https://github.com/jimenezjose/jimenezjose/blob/main/bitcoin.png" width="10%">](https://github.com/jimenezjose/jimenezjose/blob/main/qrcode.png)
 
